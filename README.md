@@ -5,10 +5,8 @@ This project implements face recognition and completion tasks using machine lear
 ## Table of Contents
 - [Introduction](#introduction)
 - [Approach](#approach)
-- [How to Use](#how-to-use)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project aims to recognize and complete faces using L2-regularized least squares for classification and regression tasks. The provided dataset includes 400 images of faces, split into training and test sets.
@@ -42,3 +40,12 @@ This project aims to recognize and complete faces using L2-regularized least squ
 **Evaluation:**
 - Evaluated model performance using Mean Absolute Percentage Error (MAPE).
 - Visualized and compared ground truth and completed faces.
+
+## Future Work
+- Expand the dataset for better robustness.
+- Develop a real-time face recognition system.
+- Explore advanced architectures and techniques like transfer learning.
+
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue for suggestions or improvements.
+
