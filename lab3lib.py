@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-@author: Alessio Sarullo
 
-YOU SHOULD NOT MODIFY THIS CODE.
-"""
 import numpy as np
 from matplotlib import pyplot as plt
 from scipy.io import loadmat
